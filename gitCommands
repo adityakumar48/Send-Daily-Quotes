@@ -1,0 +1,3 @@
+git remote add origin https://github.com/adityakumar48/Send-Daily-Quotes.git
+git branch -M master
+git push -u origin master
